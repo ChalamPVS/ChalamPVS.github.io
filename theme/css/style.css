@@ -182,9 +182,9 @@ ul.social li a:hover {
 }
 
 #intro img.avatar {
-  width: 150px;
-  max-width: 60%;
-  margin: 0 50px;
+  width: 0px;
+  max-width: 0%;
+  margin: 0 0px;
   vertical-align: middle;
 }
 
