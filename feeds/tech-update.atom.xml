@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Towards Lower Entropy - Tech Update</title><link href="https://chalampvs.github.io/" rel="alternate"></link><link href="https://chalampvs.github.io/feeds/tech-update.atom.xml" rel="self"></link><id>https://chalampvs.github.io/</id><updated>2018-06-18T12:00:00+05:30</updated><entry><title>What's happening?</title><link href="https://chalampvs.github.io/tech-update.html" rel="alternate"></link><published>2018-06-18T12:00:00+05:30</published><updated>2018-06-18T12:00:00+05:30</updated><author><name>Chalam PVS</name></author><id>tag:chalampvs.github.io,2018-06-18:/tech-update.html</id><summary type="html">&lt;p&gt;Watch out this space to keep track on interesting developements around Data Science and Artificial Intelligence.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Towards Lower Entropy - Tech Update</title><link href="https://chalampvs.github.io/" rel="alternate"></link><link href="https://chalampvs.github.io/feeds/tech-update.atom.xml" rel="self"></link><id>https://chalampvs.github.io/</id><updated>2018-06-18T12:00:00+05:30</updated><entry><title>What's happening?</title><link href="https://chalampvs.github.io/tech-update.html" rel="alternate"></link><published>2018-06-18T12:00:00+05:30</published><updated>2018-06-18T12:00:00+05:30</updated><author><name>Chalam PVS</name></author><id>tag:chalampvs.github.io,2018-06-18:/tech-update.html</id><summary type="html">&lt;p&gt;Watch out this space to keep track of interesting developements around Data Science and Artificial Intelligence.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -975,7 +975,7 @@ h6:hover .anchor-link {
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Watch out this space to keep track on interesting developements around Data Science and Artificial Intelligence. Please feel free to contribute.&lt;/p&gt;
+&lt;p&gt;Watch out this space to keep track of interesting developements around Data Science and Artificial Intelligence. Please feel free to contribute.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
