@@ -992,7 +992,7 @@ h6:hover .anchor-link {
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;June 18, 2018:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="The above image is taken from the paper" src="./imgs/techupdate/facebook.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="The above image is taken from the paper" src="https://image.ibb.co/kNbsFJ/facebook.png"/&gt;&lt;/p&gt;
 &lt;p&gt;Image source: &lt;a href="https://research.fb.com/publications/eye-in-painting-with-exemplar-generative-adversarial-networks/"&gt;Eye In-Painting with Exemplar Generative Adversarial Networks&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Facebook has just published an interesting paper in which it applies ExGAN (Exemplar Generative Adversarial Networks) to convert faces with closed eyes to open-eyed images. Check this out - &lt;a href="https://research.fb.com/publications/eye-in-painting-with-exemplar-generative-adversarial-networks/"&gt;Facebook Paper&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
